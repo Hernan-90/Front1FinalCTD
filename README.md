@@ -1,6 +1,6 @@
 # Frontend 1 Project: Responsive Web Design with CSS Flexbox
 
-Welcome to my Frontend 1 project, developed as part of the CTD (Coding Temple Development) course. This project showcases my skills in building a responsive web design using CSS Flexbox, demonstrating a clean and visually appealing user interface.
+Welcome to my Frontend 1 project, developed as part of the Digital House CTD (Certifed Tech Developer) course. This project showcases my skills in building a responsive web design using CSS Flexbox, demonstrating a clean and visually appealing user interface.
 
 ## Key Features
 
