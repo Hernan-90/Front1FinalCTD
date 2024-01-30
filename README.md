@@ -13,9 +13,3 @@ Welcome to my Frontend 1 project, developed as part of the Digital House CTD (Ce
 - HTML5
 - CSS3 (Flexbox)
 - Media Queries
-
-## Usage
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/frontend-project.git
